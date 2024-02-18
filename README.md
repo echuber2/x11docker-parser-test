@@ -1,5 +1,6 @@
 # x11docker-parser-test
-Testing proposed changes to x11docker parser
+Testing proposed changes to x11docker parser mentioned here:
+https://github.com/mviereck/x11docker/pull/525
 
 ## Output
 
